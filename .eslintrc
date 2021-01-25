@@ -1,0 +1,9 @@
+{
+  "extends": "react-native-wcandillon",
+  "rules": {
+    "react-hooks/exhaustive-deps": 0,
+    "camelcase": 0,
+    "no-unused-vars": 0, // prevent dupes with TS
+    "@typescript-eslint/no-var-requires": 0 // for gatsby node files
+  }
+}
