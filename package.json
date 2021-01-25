@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "phoenix",
   "version": "1.0.0",
   "private": true,
-  "description": "portfolio",
+  "description": "phoenix rfc",
   "author": "Mark Doyle",
   "keywords": [
     "gatsby"

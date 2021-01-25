@@ -4,4 +4,4 @@
 
 See [here](https://raw.githubusercontent.com/doylemark/phoenix-rfc/master/content/posts/test.mdx) for authoring experience.
 
-Live demo:
+Live demo: [https://phoenix-rfc.netlify.app](https://phoenix-rfc.netlify.app)
