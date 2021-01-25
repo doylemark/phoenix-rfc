@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "start": "tsc -p ./tsconfig-gatsby.json && gatsby develop",
-    "build": "gatsby build",
+    "build": "tsc -p ./tsconfig-gatsby.json && gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },

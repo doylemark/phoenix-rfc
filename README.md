@@ -1,7 +1,7 @@
 <h1 align="center">
-  Gatsby TypeScript MDX starter
+  Phoenix RFC
 </h1>
 
-* 100% TypeScript including build scripts
-* MDX Content Authoring
-* styled-components
+See [here](https://raw.githubusercontent.com/doylemark/phoenix-rfc/master/content/posts/test.mdx) for authoring experience.
+
+Live demo:
